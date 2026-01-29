@@ -76,7 +76,7 @@
   "dependencies": {
     "appium-android-driver": "^12.0.0",
     "appium-flutter-finder": "^0.2.0",
-    "appium-ios-device": "^3.0.0",
+    "appium-ios-device": "^3.1.9",
     "appium-uiautomator2-driver": "^6.0.0",
     "appium-xcuitest-driver": "^10.0.0",
     "asyncbox": "^4.0.1",
