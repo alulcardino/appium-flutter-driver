@@ -81,7 +81,7 @@
     "appium-xcuitest-driver": "^10.0.0",
     "asyncbox": "^4.0.1",
     "bluebird": "^3.1.1",
-    "lodash": "^4.0.0",
+    "lodash": "^4.17.23",
     "portscanner": "^2.2.0",
     "rpc-websockets": "^10.0.0"
   }
