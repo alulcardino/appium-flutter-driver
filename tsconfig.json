@@ -8,5 +8,5 @@
     "types": ["node"],
     "checkJs": true
   },
-  "include": ["lib"]
+"include": ["driver/**/*.ts", "driver/**/*.tsx"]
 }
